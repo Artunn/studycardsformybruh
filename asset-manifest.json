@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/studycardsformybruh/static/css/main.211c2c2c.chunk.css",
+    "main.js": "/studycardsformybruh/static/js/main.be230b91.chunk.js",
+    "main.js.map": "/studycardsformybruh/static/js/main.be230b91.chunk.js.map",
+    "runtime-main.js": "/studycardsformybruh/static/js/runtime-main.3d5e3e7d.js",
+    "runtime-main.js.map": "/studycardsformybruh/static/js/runtime-main.3d5e3e7d.js.map",
+    "static/css/2.14c36052.chunk.css": "/studycardsformybruh/static/css/2.14c36052.chunk.css",
+    "static/js/2.f337dde6.chunk.js": "/studycardsformybruh/static/js/2.f337dde6.chunk.js",
+    "static/js/2.f337dde6.chunk.js.map": "/studycardsformybruh/static/js/2.f337dde6.chunk.js.map",
+    "static/js/3.564a22ac.chunk.js": "/studycardsformybruh/static/js/3.564a22ac.chunk.js",
+    "static/js/3.564a22ac.chunk.js.map": "/studycardsformybruh/static/js/3.564a22ac.chunk.js.map",
+    "index.html": "/studycardsformybruh/index.html",
+    "static/css/2.14c36052.chunk.css.map": "/studycardsformybruh/static/css/2.14c36052.chunk.css.map",
+    "static/css/main.211c2c2c.chunk.css.map": "/studycardsformybruh/static/css/main.211c2c2c.chunk.css.map",
+    "static/js/2.f337dde6.chunk.js.LICENSE.txt": "/studycardsformybruh/static/js/2.f337dde6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/studycardsformybruh/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d5e3e7d.js",
+    "static/css/2.14c36052.chunk.css",
+    "static/js/2.f337dde6.chunk.js",
+    "static/css/main.211c2c2c.chunk.css",
+    "static/js/main.be230b91.chunk.js"
+  ]
+}
