@@ -1,0 +1,11 @@
+.mainpage {
+    height: 100vh;
+}
+
+.cardstyling {
+    margin: auto;
+    width: 500px;
+    position: relative;
+    top: 30%;
+    transform: translateY(-30%);
+}
